@@ -26,6 +26,8 @@ Regarding Contact:
 Questions? Email me at abepalme918@gmail.com
 DO NOT spam this address. This is a real, monitored inbox.
 
-Legal notice: Any person who sends unsolicited bulk or repeated emails to this address ("spam") explicitly agrees, by the act of sending, that any and all reply emails I send from any and/or all of my accounts are thereby solicited and fully compliant with the CAN-SPAM Act of 2003 (15 U.S.C. § 7701 et seq.). You waive the right to classify any response as unsolicited.
+    Legal notice: Any person who sends unsolicited bulk or repeated emails to this address ("spam") explicitly agrees, by the act of 
+    sending, that any and all reply emails I send from any and/or all of my accounts are thereby solicited and fully compliant with the 
+    CAN-SPAM Act of 2003 (15 U.S.C. § 7701 et seq.). You waive the right to classify any response as unsolicited.
 
 Do not test this. There is a working email spammer in a private repository on this account. I will use it.
