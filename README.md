@@ -22,3 +22,4 @@ How to use:
 I did not make this, only forking to try to provide more clear instructions to other people. If you are interested in finding and thanking the person I forked this from, their GitHub account is alienaxolotl and the original repository is alienaxolotl/blooket.
 
 With questions, please email me at abepalme918@gmail.com
+EDIT: Someone tried spam emailing me. DO NOT TRY THAT. By spamming me, you agree that any and all emails that I may send back from any of my emails are solicited and therefore not in violation of the CANSPAM Act. Do not try it. There is a working email spammer in a Private Repo.
