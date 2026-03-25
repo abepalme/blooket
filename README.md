@@ -18,8 +18,14 @@ How to use:
 3) It might throw an error, but just hit 'OK' and it will ignore it and execute the bookmarklet.
 
 
-
 I did not make this, only forking to try to provide more clear instructions to other people. If you are interested in finding and thanking the person I forked this from, their GitHub account is alienaxolotl and the original repository is alienaxolotl/blooket.
 
-With questions, please email me at abepalme918@gmail.com
-EDIT: Someone tried spam emailing me. DO NOT TRY THAT. By spamming me, you agree that any and all emails that I may send back from any of my emails are solicited and therefore not in violation of the CANSPAM Act. Do not try it. There is a working email spammer in a Private Repo.
+
+Regarding Contact:
+
+Questions? Email me at abepalme918@gmail.com
+DO NOT spam this address. This is a real, monitored inbox.
+
+Legal notice: Any person who sends unsolicited bulk or repeated emails to this address ("spam") explicitly agrees, by the act of sending, that any and all reply emails I send from any and/or all of my accounts are thereby solicited and fully compliant with the CAN-SPAM Act of 2003 (15 U.S.C. § 7701 et seq.). You waive the right to classify any response as unsolicited.
+
+Do not test this. There is a working email spammer in a private repository on this account. I will use it.
