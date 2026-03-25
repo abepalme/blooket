@@ -1,5 +1,7 @@
 Notes:
 Requires Chrome or Chromium-based browser for a computer. It will not work for mobile/tablet devices.
+If you have a computer and you want it on your tablet, you can sync your bookmarks into the Chrome app for iPadOS and AndroidOS.
+
 
 How to install Blooket cheats:
 
@@ -32,4 +34,4 @@ In case anyone is curious, I formatted my email the way I did with the braces to
     and fully compliant with the CAN-SPAM Act of 2003 (15 U.S.C. § 7701 et seq.). You waive the right to classify 
     any response as unsolicited.
 
-Do not test this. There is a working email spammer in a private repository on this account. I will use it
+Do not test this. There is a working email spammer in a private repository on this account. I will use it.
