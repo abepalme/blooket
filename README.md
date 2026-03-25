@@ -20,3 +20,5 @@ How to use:
 
 
 I did not make this, only forking to try to provide more clear instructions to other people. If you are interested in finding and thanking the person I forked this from, their GitHub account is alienaxolotl and the original repository is alienaxolotl/blooket.
+
+With questions, please email me at abepalme918@gmail.com
